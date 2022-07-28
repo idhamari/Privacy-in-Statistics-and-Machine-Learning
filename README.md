@@ -10,11 +10,11 @@ Notes:
 - I will use photos and resources from these lectures and other resources, all source links will be available.
 - This is still work on progress. I will try to add more contents whenever I have more free time 
 - Contribution is welcome!
-- If you have questions, comments, corrections, or feedback, please post in the [dicussion forum](). 
+- If you have questions, comments, corrections, or feedback, please post in the [dicussion forum](https://github.com/idhamari/Privacy-in-Statistics-and-Machine-Learning/discussions/categories/q-a). 
 
 # Contents:
 
- -  Introduction
+ -  [Introduction]()
  -  Reconstruction Attacks
  -  Differential Privacy Fundamentals
  -  Exponential Mechanism and Report Noisy Max
